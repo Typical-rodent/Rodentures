@@ -1,11 +1,10 @@
- body {   
-        background-image: url("Images/NIKOSHRINE/NikoYAPPING.gif"), url("cat-front.png");
-        background-size: 100px 100px;
-    
-    
+    body {
+        background-image: url("../Images/BGS/PurpleGliter.gif");
+        background-repeat: repeat;       
+        background-position: center; 
+        font-family: "Comic Sans MS";
     }
     h1 {
-        font-family:"Comic Sans MS";
         font-size:20px;
         color:white;
     }
@@ -13,7 +12,6 @@
      text-align: center;
      border: 10px solid purple;
      font-size: 20px;
-        font-family: "Comic Sans MS";
         color: white;
     }
     th {
