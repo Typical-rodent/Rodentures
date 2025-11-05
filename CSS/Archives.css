@@ -25,6 +25,7 @@
       color: rgb(56, 20, 20);
       text-align: center;
     }
+    
     .center {
       text-align: center;
     }
@@ -38,8 +39,8 @@
         border: 10px outset rgb(143, 17, 136);
     }
     .header {
-       border: 10px outset orange;
-        background-color: black;
+       border: 10px outset rgb(126, 47, 138);
+        background-color: rgb(233, 151, 255);
         text-align: center;
         color:orange;
         height:100px;
@@ -77,7 +78,7 @@
 }
 /* Default link color */
 a {
-  color: rgb(31, 0, 202);
+  color: rgb(255, 255, 255);
   
 }
 
@@ -88,7 +89,7 @@ a:hover {
 }
 /* Visited link color */
 a:visited {
-  color: purple;
+  color: rgb(188, 188, 188);
 }
 
 /* Active link color */
