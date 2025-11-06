@@ -25,6 +25,12 @@
     background-color: #04AA6D;
     color: white;
     }
+    li {
+      font-size: 15px;
+      color: rgb(255, 191, 252);
+      text-align: center;
+   
+    }
      .container {
       display: flex-start;
       width: 750px;

@@ -26,7 +26,41 @@
       text-align: center;
     }
     p1 {
-      font-size: 12px;
+      font-size: 15px;
+      color: rgb(255, 191, 252);
+      text-align: center;
+    }
+    p2 {
+      font-size: 20px;
+      color: rgb(255, 191, 252);
+      text-align: center;
+    }
+    h4 {
+      font-size: 15px;
+      color: rgb(255, 191, 252);
+      text-align: center;
+    }
+    li {
+      font-size: 15px;
+      color: rgb(255, 191, 252);
+      
+    }
+    .bimg{
+          display: inline-block;
+          margin: 10px;
+          border: 10px outset rgb(200, 64, 193);
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+
+        }
+    h2 {
+      font-size: 20px;
+      color: rgb(255, 191, 252);
+      text-align: center;
+    }
+    h3 {
+      font-size: 17px;
       color: rgb(255, 191, 252);
       text-align: center;
     }
