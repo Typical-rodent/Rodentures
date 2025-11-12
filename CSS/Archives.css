@@ -2,10 +2,10 @@
       display: flex-start;
       width: 600px;
       height: 600px;
-      background-color: rgb(177, 3, 148);
+      background-color: rgb(46, 6, 121);
       overflow: hidden;
       overflow-y: auto;
-      border: 10px outset rgb(143, 17, 136);
+      border: 10px outset rgb(41, 12, 94);
       
     }
     body {
@@ -14,7 +14,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        background-image: url("../Images/BGS/PurpleGliter.gif");
+        background-image: url("../Images/BGS/blueglitter.gif");
         background-repeat: repeat;       
         background-position: center;    
         background-size: 200px;          
@@ -25,7 +25,10 @@
       color: rgb(56, 20, 20);
       text-align: center;
     }
-    
+    .Btxt {
+    font-size: 40px;
+
+    }
     .center {
       text-align: center;
     }
@@ -39,11 +42,11 @@
         border: 10px outset rgb(143, 17, 136);
     }
     .header {
-       border: 10px outset rgb(126, 47, 138);
-        background-color: rgb(233, 151, 255);
+       border: 10px outset rgb(41, 12, 94);
+        background-color: rgb(58, 26, 117);
         text-align: center;
         color:orange;
-        height:100px;
+        height:160px;
     }
     .footer {
         border: 10px outset orange;
@@ -57,6 +60,57 @@
       margin-left: auto;
       margin-right: auto;
     }
+        h1 {
+      font-size: 35px;
+      color: rgb(135, 110, 245);
+      text-shadow: 2px 2px black;
+      text-align: center;
+    }
+    p1 {
+      font-size: 15px;
+      color: rgb(135, 110, 245);
+      text-shadow: 2px 2px black;
+      text-align: center;
+    }
+    p2 {
+      font-size: 20px;
+      color: rgb(135, 110, 245);
+      text-shadow: 2px 2px black;
+      text-align: center;
+    }
+    h4 {
+      font-size: 15px;
+      color: rgb(135, 110, 245);
+      text-shadow: 2px 2px black;
+      text-align: center;
+    }
+    li {
+      font-size: 15px;
+      color: rgb(135, 110, 245);
+      text-shadow: 2px 2px black;
+      
+    }
+    .bimg{
+          display: inline-block;
+          margin: 10px;
+          border: 10px outset rgb(200, 64, 193);
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+
+        }
+    h2 {
+      font-size: 20px;
+      color: rgb(159, 141, 240);
+      text-shadow: 2px 2px black;
+      text-align: center;
+    }
+    h3 {
+      font-size: 17px;
+      color: rgb(141, 125, 216);
+      text-shadow: 2px 2px black;
+      text-align: center;
+    }
     /* width */
 ::-webkit-scrollbar {
   width: 10px;
@@ -64,17 +118,17 @@
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: rgb(143, 17, 136);
+  background: rgb(41, 12, 94);
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #b045c9;
+  background: rgb(90, 32, 199);
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: #11bcff;
 }
 /* Default link color */
 a {
